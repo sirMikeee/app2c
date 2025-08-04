@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app2c;
+package Activities;
 
 /**
  *
@@ -12,7 +12,7 @@ package app2c;
 public class Activity4 {
     
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!"); 
         
     }
     

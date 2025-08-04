@@ -1,4 +1,4 @@
-package app2c;
+package Activities;
 
 import java.util.Scanner;
 public class activity1 {
